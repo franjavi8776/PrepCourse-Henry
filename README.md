@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este un repositorio de prueba de curso de Henry
+Este proyecto es una prueba para clonar un repositorio y editarlo desde VSC.
